@@ -1,0 +1,16 @@
+{
+  "name": "com.TheWazzzzzup.ZupUtils",
+  "version": "1.0.0",
+  "displayName": "WazzzzzupUtilites",
+  "description": "This is an example package",
+  "unity": "2022.1",
+  "author": {
+    "name": "Amit Mor Yosef",
+    "url": "https://github.com/TheWazzzzzup"
+  }
+}
+
+  //"dependencies": {
+  //  "com.[company-name].some-package": "1.0.0",
+  //  "com.[company-name].other-package": "2.0.0"
+  //},
