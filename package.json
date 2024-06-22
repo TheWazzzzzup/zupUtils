@@ -1,8 +1,8 @@
 {
   "name": "net.thewazzzzzup.zuputils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Wazzzzzup Utilites",
-  "description": "This is an example package",
+  "description": "Package of stuff i find useful",
   "unity": "2022.1",
   "author": {
     "name": "Amit Mor Yosef",

@@ -22,3 +22,6 @@ overrides the Vector3 and retunrs the new one.
     vector.Offset(-1,5,0)
     // Returns {-1,5,0}
 ```
+
+## Tweakables
+easy way to create fields accessabile for non programing editors. will become a custom attribute down the road.
