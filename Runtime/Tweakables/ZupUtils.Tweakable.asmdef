@@ -1,5 +1,5 @@
 {
-    "name": "ZupUtils.Extensions",
+    "name": "ZupUtils.Tweakable",
     "rootNamespace": "ZupUtils",
     "references": [],
     "includePlatforms": [],
