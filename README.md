@@ -25,3 +25,6 @@ overrides the Vector3 and retunrs the new one.
 
 ## Tweakables
 easy way to create fields accessabile for non programing editors. will become a custom attribute down the road.
+
+## Required Attribute
+mark any field with [RequiredAttribute] will show on inspector and hierarchy if you failed to provide references

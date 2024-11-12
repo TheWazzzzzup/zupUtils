@@ -1,4 +1,10 @@
-## [1.0.1] - 2024-06-22
+## [1.0.2] - 2024-11-12
+
+## RequiredAttribute - 2024-11-12
+- required attribute is Created
+- namespce is ZupEditorUtils
+- shows warrning on inspector & hierarchy
+
 
 ### Tweakables - 2024-06-22
 - Created tweakable scriptable object.
