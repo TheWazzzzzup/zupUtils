@@ -9,6 +9,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using static System.IO.Directory;
 using static System.IO.Path;
+using static UnityEditor.AssetDatabase;
 
 namespace ZupEditorUtils
 {
@@ -30,6 +31,7 @@ namespace ZupEditorUtils
                 "Materials",
                 "ScriptableObjects",
                 "Scripts");
+            Refresh();
         }
 
         static class Folders
