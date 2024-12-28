@@ -1,4 +1,8 @@
-## [1.0.2] - 2024-11-12
+## [1.0.3] - 2024-12-28
+
+## Project Setup - 2024-12-28
+- can setup basic project directories from menu
+- setup git ignore file form menu
 
 ## RequiredAttribute - 2024-11-12
 - required attribute is Created

@@ -28,3 +28,7 @@ easy way to create fields accessabile for non programing editors. will become a 
 
 ## Required Attribute
 mark any field with [RequiredAttribute] will show on inspector and hierarchy if you failed to provide references
+
+## Project Setup
+setup projects directories with 3 clicks :)
+setup project gitIgnore file from within unity
